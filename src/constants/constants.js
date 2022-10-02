@@ -56,9 +56,9 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2017, text: 'Started my journey through a web development bootcamp', },
+  { year: 2017, text: 'Graduated from a web development bootcamp', },
   { year: 2018, text: 'Worked as a freelance Technical writer and content creator', },
-  { year: 2019, text: 'Worked as a freelance web developer', },
-  { year: 2020, text: 'Started working as a blockchain developer', },
+  { year: 2019, text: 'Started working as a freelance web developer', },
+  { year: 2020, text: 'Graduated with a bachelors in information technology', },
   { year: 2021, text: 'Still working as freelance developer', },
 ];
