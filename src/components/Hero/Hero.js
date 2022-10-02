@@ -4,7 +4,7 @@ import { Section, SectionText, SectionTitle } from '../../styles/GlobalComponent
 import Button from '../../styles/GlobalComponents/Button';
 import { LeftSection } from './HeroStyles';
 
-const Hero = () => (
+const Hero = (props) => (
  <Section row nopadding>
   <LeftSection>
     <SectionTitle main center>
@@ -14,6 +14,7 @@ const Hero = () => (
     <SectionText>
       Edmond is a Front-End Developer with a knack for learning and mastering development technologies to produce scalable and user-friendly websites.
     </SectionText>
+    <Button onClick={() => window.location = 'https://github.com/edmond-k'}>Github</Button>
   </LeftSection>
  </Section>
 );
