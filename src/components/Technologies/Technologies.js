@@ -9,7 +9,7 @@ const Technologies = () =>  (
     <br />
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
-      I love working with React, Next.js and Typescript when developing software for the web. I recently delved into the world of web3 creating Blockchain smart contracts and DAPPs that interact with them.
+      I have experience working with React, Node.js, Next.js, Javascript, Solidity, Python and Typescript to develop and test front-end and back-end software. I'm also a web3 enthusiats having learned web3 skills and technologies such as creating Blockchain smart contracts and DAPPs.
     </SectionText>
     <List>
       <ListItem>
